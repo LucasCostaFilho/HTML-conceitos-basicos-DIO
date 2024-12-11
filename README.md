@@ -1,4 +1,7 @@
 # Trilha HTML - Dio.me
+
+# Atividade proposta na formação
+
 ## Módulo 02 - HTML I - Conceitos Básicos
 
 Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
